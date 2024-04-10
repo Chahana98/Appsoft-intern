@@ -1,0 +1,15 @@
+D:\Appsoft intern\day7-8\netstart\netbasics\bin\Debug\net8.0\netbasics.exe
+D:\Appsoft intern\day7-8\netstart\netbasics\bin\Debug\net8.0\netbasics.deps.json
+D:\Appsoft intern\day7-8\netstart\netbasics\bin\Debug\net8.0\netbasics.runtimeconfig.json
+D:\Appsoft intern\day7-8\netstart\netbasics\bin\Debug\net8.0\netbasics.dll
+D:\Appsoft intern\day7-8\netstart\netbasics\bin\Debug\net8.0\netbasics.pdb
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.AssemblyInfoInputs.cache
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.AssemblyInfo.cs
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.csproj.CoreCompileInputs.cache
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.sourcelink.json
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.dll
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\refint\netbasics.dll
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.pdb
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\netbasics.genruntimeconfig.cache
+D:\Appsoft intern\day7-8\netstart\netbasics\obj\Debug\net8.0\ref\netbasics.dll
