@@ -12,6 +12,5 @@
 // Console.WriteLine($"{s1.name} {s1.address} {s1.roll} {s1.dob}");
 Animal a1=new();
 Animal a2=new();
-
-Console.WriteLine($"{a1.name="Cat"} {a1.type="Pet"} {a1.scientificname="Felis catus"} {a1.weight=5} {a1.age=5}");
-Console.WriteLine($"{a1.name="Tiger"} {a1.type="Wild"} {a1.scientificname="Panthera tigris"} {a1.weight=40} {a1.age=10}");
+Console.WriteLine($"The details of first animal is/n{name=a1.name="Cat"}/n {type=a1.type="Pet"}/n {scientificname=a1.scientificname="Felis catus"}/n {weight=a1.weight=5}/n {age=a1.age=5}");
+Console.WriteLine($"The details of first animal is/n{name=a1.name="Tiger"}/n {type=a1.type="Wild"}/n {scientificname=a1.scientificname="Panthera tigris"}/n {weight=a1.weight=40}/n {age=a1.age=10}");
