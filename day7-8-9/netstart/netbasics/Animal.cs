@@ -3,8 +3,8 @@ class Animal{
     internal string type;
     internal string scientificname;
     internal int weight;
-    internal int age; 
+    internal string bodycolor; 
     internal void PrintDetails(){
-    Console.WriteLine(The details of animal is$"name={name} type={type} scientificname={scientificname} weight={weight} age={age}");
+    Console.WriteLine(The details of animal is$"{name} {type} {scientificname} {weight} {bodycolor}");
 }
 }
