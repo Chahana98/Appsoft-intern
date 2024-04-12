@@ -1,13 +1,14 @@
 // program to find area and perimeter of different 2D shapes.
 class Rectangle{
-    public Rectangle(float l, float b){
+    public Rectangle(double l, double b){
         length=l;
         breadth=b;
     }
-    float Area,Perimeter,length,breadth;
-    public GetArea()=> length*breadth;
+    double length;
+    double breadth;
+    public double GetArea()=> length*breadth;
     // or public GetArea(){
     //     return length*breadth;
     // }
-    public GetPerimeter()=> 2(length+breadth);
+    public double GetPerimeter()=> 2*(length+breadth);
 }

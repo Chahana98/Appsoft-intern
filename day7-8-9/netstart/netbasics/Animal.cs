@@ -5,6 +5,6 @@ class Animal{
     internal int weight;
     internal string bodycolor; 
     internal void PrintDetails(){
-    Console.WriteLine(The details of animal is$"{name} {type} {scientificname} {weight} {bodycolor}");
+    Console.WriteLine($"{name} {type} {scientificname} {weight} {bodycolor}");
 }
 }
